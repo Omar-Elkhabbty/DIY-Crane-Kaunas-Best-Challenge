@@ -10,13 +10,6 @@ The goal of this challenge was to design, build, and mathematically model a full
 
 ---
 
-## 📸 System Overview & Hardware Setup
-
-| **Hardware Schematic** | **Physical Prototype ("GENTLEMEN")** |
-| :---: | :---: |
-| ![Hardware Schematic](./hardware_schematic.png) | ![Physical Crane Prototype](./crane_prototype.jpg) |
-
----
 
 ## 📌 Project Objectives & Competition Rules
 
