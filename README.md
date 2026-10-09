@@ -6,7 +6,7 @@
 
 An embedded hardware and mechanical engineering project developed for the **EBEC (European BEST Engineering Competition) Challenge — "Tower of Babel"**. 
 
-The goal of this challenge was to design, build, and mathematically model a fully remote-controlled motorized crane system using restricted physical materials within a strict **8-hour time limit**.
+The goal of this challenge was to design, build, and mathematically model a fully remote-controlled motorized crane system using restricted physical materials within a strict **48-hour time limit**.
 
 ---
 
